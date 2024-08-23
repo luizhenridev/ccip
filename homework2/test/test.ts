@@ -127,7 +127,7 @@ try {
 /**
  * To run the test, execute the following command:
  * npx hardhat node (in a separate terminal)
- * npx hardhat test --network hardhat
+ * npx hardhat test --network hardhat       
  */
 
 /**
