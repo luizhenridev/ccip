@@ -8,6 +8,7 @@ Using the transaction hash we can estimate the gas used.
 
 messageID : 0xcfc989784341eacf436c657eda53c504a1f60c97ecaa000e9d18148266abc70c
 Destination Transaction Hash: 0x6c42ccc54c78623596308a9623db488d6c71c7615a4a38c5adcc50af6d24b7b5
+<img width="1201" alt="Captura de Tela 2024-08-23 às 19 31 32" src="https://github.com/user-attachments/assets/b929a278-9c38-4462-81ae-30600eaf06ed">
 
 
 as for my case the Gas Used : 246.385 Alt text
